@@ -1,4 +1,4 @@
 # Olá, Mundo! 2
- Segundo reositório versionado
+ Segundo repositório versionado
 
  Repositóro criado durante uma aula
